@@ -4,6 +4,6 @@ This module provides the ability to impersonate any existing or non existing Ici
 
 Please read the following chapters for more insights on this module:
 
-* [Installation](02-Installation.md#module-influxdb-installation)
-* [Configuration](03-Configuration.md#module-influxdb-configuration)
-* [Usage](04-Usage.md#module-influxdb-usage)
+* [Installation](02-Installation.md#module-impersonate-installation)
+* [Configuration](03-Configuration.md#module-impersonate-configuration)
+* [Usage](04-Usage.md#module-impersonate-usage)
